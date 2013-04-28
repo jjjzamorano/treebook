@@ -6,3 +6,8 @@ one:
 
 two:
   content: MyText
+  user: juan
+
+three:
+  content: MyText
+  user: jimena

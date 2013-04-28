@@ -3,3 +3,9 @@ juan:
   last_name: "Zamorano"
   email: "juan.zamorano@raremethod.com"
   profile_name: "jjjzamorano"
+
+jimena:
+  first_name: "Jimena"
+  last_name: "Verbel"
+  email: "jimeverbel@gmail.com"
+  profile_name: "jimeverbel"
